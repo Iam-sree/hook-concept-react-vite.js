@@ -4,6 +4,7 @@ import InputsExample from './components/InputsExample';
 import Countercall from './components/Countercall';
 import ExpensiveCalculation from './components/ExpensiveCalculation';
 import SearchList from './components/SearchList';
+import Counterreducer from './components/Counterreducer';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Countercall />
       <ExpensiveCalculation />
       <SearchList />
+      <Counterreducer />
 
 
     </div>
